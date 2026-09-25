@@ -9,4 +9,4 @@ Musica
 VideoJuegos
 
 Meta:
-En estos modulos mi meta es poder ser o bueno ser lo mejor y esforzarme en ser un full stack developer y terminar mis cursos de full stack.
+Ser mejor persona poder ayudar a los que necesitan y crecer en el entorno de programacion estudiando y dando todo de mi.
